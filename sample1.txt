@@ -1,0 +1,9 @@
+Some additions in the new standard, such as auto for type inference, are pervasive.
+These facilities make the code in this edition easier to read and to understand.
+Programs (and programmers!) can ignore type details, which makes it easier to
+concentrate on what the program is intended to do. Other new features, such as
+smart pointers and move-enabled containers, let us write more sophisticated classes
+without having to contend with the intricacies of resource management. As a result,
+we can start to teach how to write your own classes much earlier in the book than we
+did in the Fourth Edition. We—and you—no longer have to worry about many of the
+details that stood in our way under the previous standard.
